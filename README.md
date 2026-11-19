@@ -1,6 +1,7 @@
 # WESHH les gâtés ! 
 
 Bienvenue sur mon GitHub. Je code des bots chelous, mais au calme, ils sont tout doux.
+Attends, attends ! Pourquoi tu lis ça, toi ? Tu veux mon Snap ou quoi ?👀🫦
 ---
 
 ### 🕸️ À propos de moi
@@ -23,3 +24,4 @@ Bienvenue sur mon GitHub. Je code des bots chelous, mais au calme, ils sont tout
 
 ---
 
+Bah frère, tu le veux vraiment mon Snap ! Mais dommage, je recherche que des blondes, brunes ou rousses aux yeux bleus. Désolé mon bg... Garde la framboise :D 
