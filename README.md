@@ -1,16 +1,25 @@
-## Hi there 👋
+# WESHH les gâtés ! 
 
-<!--
-**MrMisteur/MrMisteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub. Je code des bots chelous, mais au calme, ils sont tout doux.
+---
 
-Here are some ideas to get you started:
+### 🕸️ À propos de moi
+- 🤖 **Activité principale :** Concepteur de bots Discord (légèrement atypiques, mais promis, c'est pas méchant).
+- 🎧 **Kiffe la musique :** Damso is better, Jok'air, Kaaris, MZ, Dadju ❤️‍🔥
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Mes Projets
+
+| Projet | Description | 
+| :--- | :--- | 
+| **Mika-et-Brabus** | En préparation/développement « Ce sont deux bots avec une IA intégrée, avec chacun des personnalités atypiques. » |
+---
+
+### 🛠️ 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
