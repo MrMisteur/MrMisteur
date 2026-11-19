@@ -28,11 +28,11 @@ Bah frère, tu le veux vraiment mon Snap ! Mais dommage, je recherche que des bl
 
 
 Petite citation : 
+   
+    J'n'ai aucune peine 
+    j'te nique ta race
 
-J'n'ai aucune peine,
-j'te nique ta race
-
-Dans les veines 
-j'n'ai que de la glace 
+    Dans les veines 
+    j'n'ai que de la glace 
 
         Karis, zoo 
