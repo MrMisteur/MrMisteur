@@ -25,3 +25,14 @@ Attends, attends ! Pourquoi tu lis ça, toi ? Tu veux mon Snap ou quoi ?👀🫦
 ---
 
 Bah frère, tu le veux vraiment mon Snap ! Mais dommage, je recherche que des blondes, brunes ou rousses aux yeux bleus. Désolé mon bg... Garde la framboise :D 
+
+
+Petite citation : 
+
+J'n'ai aucune peine,
+j'te nique ta race
+
+Dans les veines 
+j'n'ai que de la glace 
+
+        Karis, zoo 
